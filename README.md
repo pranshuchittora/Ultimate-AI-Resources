@@ -170,7 +170,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - [Claude Code](https://docs.claude.com/en/docs/claude-code) – Command-line AI coding agent
 
 ### AI Testing & QA
-- [agent-qa](https://github.com/vostride/agent-qa) – Source-available agentic QA harness for natural-language web and mobile tests, with CLI and MCP integration
+- [agent-qa](https://github.com/vostride/agent-qa) – Self-improving QA agent for natural-language web and mobile tests, with CLI and MCP integration
 
 ### No-Code AI
 - [Bubble + AI](https://bubble.io/ai)

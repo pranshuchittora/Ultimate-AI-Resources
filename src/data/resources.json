@@ -438,7 +438,7 @@
             {
               "name": "agent-qa",
               "link": "https://github.com/vostride/agent-qa",
-              "description": "Source-available agentic QA harness for natural-language web and mobile tests, with CLI and MCP integration",
+              "description": "Self-improving QA agent for natural-language web and mobile tests, with CLI and MCP integration",
               "difficulty": "Beginner"
             }
           ]
